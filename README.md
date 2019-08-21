@@ -1,4 +1,4 @@
 # DevC JavaScript Development Course
-Exercise 2
+Result : 
 
 ![Web Appearance](img.PNG)
